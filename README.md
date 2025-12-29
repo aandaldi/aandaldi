@@ -36,15 +36,6 @@
 ### 🐍 Python & Automation Tools
 *Utilities and scripts developed to solve specific engineering bottlenecks.*
 
-
----
-
-## 📊 GitHub Data Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
-</p>
-
 ---
 
 ## 📬 Connect with me
